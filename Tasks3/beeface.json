@@ -1,0 +1,12 @@
+{
+  "name":"My NFT",
+  "description":"first nft i minted",
+  "image":"ipfs://bafkreieby5guvz3sllur7yuaoifopwyur5a3namhabd23rydpjwuczkbdq",
+  "properties":[
+    {
+     "trait-type":"beeface",
+     "value":"100"
+     
+    }
+    ]
+}
